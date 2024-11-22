@@ -18,8 +18,16 @@
             -Identify the risk factors
 
 ####   5. Milesstone:
-            ![image](https://github.com/user-attachments/assets/4d373ba0-fab8-4813-985a-a37609a8e60e)
-
+            Week 2 - Week 4  
+               *Project Topic, Direction, and Questions [R1]
+            Week 3 - Week 6
+                *Data Analysis and Exploration [R2]
+            Week 6 - Week 8
+               *Clustering [R3]
+            Week 7 - Week 8
+               *Baseline Training and Evaluation Experiments [R4]
+            Week 8 - Week 10
+               *Neural Networks [R5]
 
 ####    6. The sources of  datasets.
                our reserch consists of 3 data sets
@@ -34,8 +42,8 @@
                   data folder contains data set.
 
 ####      8.
-           R1- performed for Framingham Data Set,Cardiomagaly data set,UCI Data set
-           R2-R4 performed for Framingham Data Set,UCI Data set
+           R1,R2- performed for Framingham Data Set,Cardiomagaly data set,UCI Data set
+           R3-R4 performed for Framingham Data Set,UCI Data set
            R5 performed for Cardiomegaly data set
 
             Framingham Data Set
