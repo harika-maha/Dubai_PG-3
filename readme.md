@@ -90,6 +90,7 @@
  #### 9. Folder Structure
                  data -contains data set
                  notebooks -contains codes for each data set
+                 documentation-weekly progress
 
 
 
